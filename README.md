@@ -2,7 +2,7 @@
 
 A US based E-commerce sales company wants us to create a sales dashboard showing information of YTD sales and generate insights for below scenarios 
 
-Created a KPI Banner showing YTD Sales, YTD Profit, YTD Quantity sold, YTD Profit Margin
+Created a KPI Banner showing YTD Sales, YTD Profit, YTD Quantity sold, YTD Profit Margin.
 
 Calculated Year on Year growth for each KPI and show a YTD sparkline for each measure in the KPI to understand the monthly trend for each fact.
 
